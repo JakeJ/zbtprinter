@@ -1,0 +1,27 @@
+{
+"name": "cordova-plugin-zebra-android-test",
+"version": "1.0.0",
+"description": "Test",
+"cordova": {
+"id": "com.example.zebraandroid",
+"platforms": [
+"android"
+]
+},
+"repository": {
+"type": "git",
+"url": "https://github.com/JakeJ/zbtprinter/new/master.git"
+},
+"keywords": [
+"android"
+],
+"author": "Jake Julich",
+"license": "Apache 2.0",
+"bugs": {
+"url": "https://github.com/JakeJ/zbtprinter/new/master/issues"
+},
+"homepage": "https://github.com/JakeJ/zbtprinter/new/master",
+"dependencies": {},
+"scripts": {},
+"devDependencies": {}
+}
