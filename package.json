@@ -1,9 +1,9 @@
 {
-"name": "cordova-plugin-zebra-android-test",
+"name": "ZebraBluetoothPrinter",
 "version": "1.0.0",
 "description": "Test",
 "cordova": {
-"id": "com.example.zebraandroid",
+"id": "it.zenitlab.cordova.plugins.zbtprinter",
 "platforms": [
 "android"
 ]
